@@ -1,0 +1,76 @@
+{
+    "categories": [
+        {
+            "_id": "59f1e1ada1da8b15d42234e9",
+            "title": "Swim",
+            "status": "1",
+            "pic": "",
+            "pid": "0",
+            "sort": "100"
+        },
+        {
+            "_id": "59f1e1e880e7ed050cec999d",
+            "title": "Jewelry",
+            "status": 1,
+            "pic": "",
+            "pid": "0",
+            "sort": "100"
+        },
+        {
+            "_id": "59f1e4659bfd8f3bd030eed3",
+            "title": "Leggings",
+            "status": 1,
+            "pic": "",
+            "pid": "0",
+            "sort": "100"
+        },
+        {
+            "_id": "59f1e46e9bfd8f3bd030eed4",
+            "title": "Skirts&Shorts",
+            "status": "1",
+            "pic": "",
+            "pid": "0",
+            "sort": "100"
+        },
+        {
+            "_id": "59f1e47e9bfd8f3bd030eed5",
+            "title": "Tops",
+            "status": "1",
+            "pic": "",
+            "pid": "0",
+            "sort": "100"
+        },
+        {
+            "_id": "5a04251e010e711234661438",
+            "title": "Bottoms",
+            "status": "1",
+            "pic": "",
+            "pid": "0",
+            "sort": "100"
+        },
+        {
+            "_id": "5a04261e010e71123466143a",
+            "title": "Shoes",
+            "status": 1,
+            "pic": "",
+            "pid": "0",
+            "sort": "100"
+        },
+        {
+            "_id": "5a042e29010e711234661443",
+            "title": "Dresses&Jumpsuits",
+            "status": "1",
+            "pic": "",
+            "pid": "0",
+            "sort": "100"
+        },
+        {
+            "_id": "5a042f27010e711234661446",
+            "title": "Bags",
+            "status": "1",
+            "pic": "",
+            "pid": "0",
+            "sort": "100"
+        }
+    ]
+}
