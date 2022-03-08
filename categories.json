@@ -9,6 +9,14 @@
             "sort": "100"
         },
         {
+            "_id": "59f1e46e9bfd8f3bd030eed4",
+            "title": "CLOTHING",
+            "status": "1",
+            "pic": "",
+            "pid": "0",
+            "sort": "100"
+        },
+        {
             "_id": "59f1e1e880e7ed050cec999d",
             "title": "ACCESSORIES",
             "status": 1,
@@ -20,22 +28,6 @@
             "_id": "59f1e4659bfd8f3bd030eed3",
             "title": "SHOES",
             "status": 1,
-            "pic": "",
-            "pid": "0",
-            "sort": "100"
-        },
-        {
-            "_id": "59f1e46e9bfd8f3bd030eed4",
-            "title": "CLOTHING",
-            "status": "1",
-            "pic": "",
-            "pid": "0",
-            "sort": "100"
-        },
-        {
-            "_id": "59f1e47e9bfd8f3bd030eed5",
-            "title": "CLOTHING",
-            "status": "1",
             "pic": "",
             "pid": "0",
             "sort": "100"
