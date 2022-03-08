@@ -1,0 +1,20 @@
+{
+    "subcategories": [
+        {
+            "_id": "59f1e4919bfd8f3bd030eed6",
+            "title": "HEELS",
+            "status": "1",
+            "pic": "https://www.urbasm.com/wp-content/uploads/2017/06/Elizabeth-Turner-high-heels.jpg",
+            "pid": "59f1e46e9bfd8f3bd030eed4",
+            "sort": "100"
+        },
+        {
+            "_id": "59f1e49a9bfd8f3bd030eed7",
+            "title": "BOOTS",
+            "status": "1",
+            "pic": "https://onemanagement.com/assets/2021-11-18/49812lizturner11762.jpeg",
+            "pid": "59f1e46e9bfd8f3bd030eed4",
+            "sort": "100"
+        }
+    ]
+}
