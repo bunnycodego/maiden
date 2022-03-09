@@ -1,0 +1,31 @@
+{
+    "result": [
+        {
+            "_id": "59f087ef11945e2760c852dd",
+            "title": "High Waisted Split Leg 7/8 Legging",
+            "cid": "59f1e4919bfd8f3bd030eed6leg",
+            "price": 2346,
+            "old_price": "2600",
+            "pic": "https://cdn.shopify.com/s/files/1/0578/6091/5389/products/CARB-CRB21153-BLUAQU-high-waisted-split-leg-7-8-legging-Color-SKY-AQUA_1000x.jpg",
+            "s_pic": "https://cdn.shopify.com/s/files/1/0578/6091/5389/products/CARB-CRB21153-BLUAQU-high-waisted-split-leg-7-8-legging-Color-SKY-AQUA_1000x.jpg"
+        },
+        {
+            "_id": "59f6a2d27ac40b223cfdcf81",
+            "title": "Ribbed Regular Rise 7/8 Legging",
+            "cid": "59f1e4919bfd8f3bd030eed6leg",
+            "price": "9999",
+            "old_price": "9899",
+            "pic": "https://cdn.shopify.com/s/files/1/0578/6091/5389/products/CARB-W378-PINHOT-ribbed-regular-rise-7-8-legging-1-Color-MAGENTA_900x.jpg",
+            "s_pic": "https://cdn.shopify.com/s/files/1/0578/6091/5389/products/CARB-W378-PINHOT-ribbed-regular-rise-7-8-legging-1-Color-MAGENTA_900x.jpg"
+        },
+        {
+            "_id": "5a012cba64604635f4a2eae0",
+            "title": "Mini Leopard 7/8 Legging",
+            "cid": "59f1e4919bfd8f3bd030eed6leg",
+            "price": 599,
+            "old_price": "600",
+            "pic": "https://cdn.shopify.com/s/files/1/0578/6091/5389/products/CARB-CRB21215-LEONEU-mini-leopard-7-8-legging-Color-BEIGE-GOLD-MINI-LEOPARD_900x.jpg",
+            "s_pic": "https://cdn.shopify.com/s/files/1/0578/6091/5389/products/CARB-CRB21215-LEONEU-mini-leopard-7-8-legging-Color-BEIGE-GOLD-MINI-LEOPARD_900x.jpg"
+        }
+    ]
+}
